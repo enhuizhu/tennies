@@ -1,0 +1,10 @@
+
+.cards-container {
+  position: relative;
+}
+.message-board {
+  position: absolute;
+  z-index: 10;
+  top: 91px;
+  left: 229px;
+}

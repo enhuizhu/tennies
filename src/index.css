@@ -12,3 +12,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+input[type=text] {
+  display: block;
+  width: 90%;
+  margin: 0 auto;
+  height: 25px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  border: solid 1px gray;
+}
+
+.btn {
+  background: green;
+  color: white;
+  font-size: 15px;
+  padding: 5px 93px;
+  border-radius: 5px;
+}
+
+.pull-left {
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
